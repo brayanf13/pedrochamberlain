@@ -1,6 +1,8 @@
-<img align='right' src='https://raw.githubusercontent.com/pedrochamberlain/pedrochamberlain/master/mario_head.gif' width='200"'>
+<a href="https://www.youtube.com/watch?v=msMkeJTEGuU">
+ <img align='right' src='https://raw.githubusercontent.com/pedrochamberlain/pedrochamberlain/master/mario_head.gif' width='200"'>
+</a>
 
-## <a target="_blank" href="https://www.youtube.com/watch?v=msMkeJTEGuU">Thank you so much for coming to my page!</a> 😊 
+## Nice to meet you!
  <br/>🍔&nbsp;He/Him
  <br/>💻&nbsp;Interning at **Globo.com** as Software Engineer on the Video Player team
  <br/>📪&nbsp;Contact me @&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-PedroChamberlain-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-chamberlain-199304167/)](https://www.linkedin.com/in/pedro-chamberlain-199304167/)&nbsp;[![Gmail Badge](https://img.shields.io/badge/-pedrochmatos@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pedrochmatos@gmail.com)](mailto:pedrochmatos@gmail.com)
